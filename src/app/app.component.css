@@ -1,0 +1,12 @@
+
+
+#wrap {
+  display: flex;
+  align-content: center;
+}
+
+kendo-grid, mat-table {
+  width: 85%;
+  height: 500px;
+}
+
